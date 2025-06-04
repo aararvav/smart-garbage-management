@@ -1,8 +1,8 @@
 //.......................................................................................................................................................................
 
-#define BLYNK_TEMPLATE_ID "TMPL6g6zRy_4G"
-#define BLYNK_TEMPLATE_NAME "Garbage Management Dustbin"
-#define BLYNK_AUTH_TOKEN "7XAS_3mzj3VkT1vkL26mxnWCkWNASHpR"
+#define BLYNK_TEMPLATE_ID "TMPL6g6zRy_4G" //get it from blynk dashboard
+#define BLYNK_TEMPLATE_NAME "Garbage Management Dustbin" //name of your device on blynk dashboard
+#define BLYNK_AUTH_TOKEN "7XAS_3mzj3VkT1vkL26mxnWCkWNASHpR" //auth token from blynk dashboard
 
 #include <ESP32Servo.h>
 #include <WiFi.h>
@@ -16,9 +16,9 @@
 
 #define SERVO_PIN 14
 
-char auth[] = "7XAS_3mzj3VkT1vkL26mxnWCkWNASHpR";
-char ssid[] = "aarav";
-char pass[] = "ekseaath";
+char auth[] = "7XAS_3mzj3VkT1vkL26mxnWCkWNASHpR"; //auth token
+char ssid[] = "aarav"; //ur wifi ssid
+char pass[] = "ekseaath"; //ur wifi password
 
 Servo myServo;
 
