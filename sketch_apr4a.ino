@@ -1,5 +1,3 @@
-//.......................................................................................................................................................................
-
 #define BLYNK_TEMPLATE_ID "TMPL6g6zRy_4G" //get it from blynk dashboard
 #define BLYNK_TEMPLATE_NAME "Garbage Management Dustbin" //name of your device on blynk dashboard
 #define BLYNK_AUTH_TOKEN "7XAS_3mzj3VkT1vkL26mxnWCkWNASHpR" //auth token from blynk dashboard
