@@ -101,7 +101,16 @@ This eliminates manual checks, promotes timely garbage collection, and ensures a
 -display for fill level and bin status \
 
 
-## Screenshots
+## **the screenshots**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![cct diagram](assets/circuit_image.png)
+
+[readings video](assets/readings.mp4)
+
+[motor working video](assets/motor.mp4)
+
+[lid opening working video](assets/working.mp4)
+
+![notifications](assets/notifications.jpg)
+
 
