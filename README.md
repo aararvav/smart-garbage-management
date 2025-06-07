@@ -105,12 +105,18 @@ This eliminates manual checks, promotes timely garbage collection, and ensures a
 
 ![cct diagram](assets/circuit_image.png)
 
+
+![positioninghand](assets/positioning_hand.jpg)
+
+![opens](assets/opens.jpg)
+
+![notifications](assets/notifications.jpg)
+
 [readings video](assets/readings.mp4)
 
 [motor working video](assets/motor.mp4)
 
 [lid opening working video](assets/working.mp4)
 
-![notifications](assets/notifications.jpg)
 
 
